@@ -1,3 +1,0 @@
-PYTHON : HONEY PRODUCTION IN USA FROM 1998-2012 (DATASET FROM KAGGLE.COM):
-February 2022
-Reading data, sorting/describing data, making changes to the data, saving the data(exporting into desired format), filtering data, conditional changes, aggregate statistics(groupby) with pandas, data visualization with matplotlip
